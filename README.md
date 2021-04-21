@@ -17,4 +17,5 @@ Choose speed for the motor
 
 6 = 255 rpm
 
+© 2020, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
 
