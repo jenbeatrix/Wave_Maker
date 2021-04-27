@@ -25,7 +25,7 @@ Based on the results, the motor will only move with an RPM of 180-255.
 
 Also it is better to use a PWM Motor Controller or a higher rating Motor Driver Module (to avoid overheating the module and power loss), and a motor equippped with a gearbox.
 
-Photo Shown: Different Wave Maker Setup using a PWN Motor Controller and a motor equipped with a gearbox
+Photo Shown: Different Wave Maker Setup using a PWM Motor Controller and a motor equipped with a gearbox
 
 ![wave_maker_pwm](https://user-images.githubusercontent.com/82814920/116257387-9750d980-a7a6-11eb-8cc2-b9e5ab547667.gif)
 
