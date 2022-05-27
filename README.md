@@ -1,4 +1,4 @@
-# Wave Maker (Version # 1)
+# Wave Maker Using a 775 High-speed High Torque DC Motor (Version # 1)
 The Wave maker basically generates the waves in the wave tank using a motor. An L298N Motor Driver Module is used to control the speed of the motor. This version of the wave maker is controlled by typing a specific number on the serial monitor, thus the speed of the motor will depend on the choice of the user. The wave maker's mechanism duration is about 30 seconds.
 
 For PWM minimum and maximum values are from 0 to 255
