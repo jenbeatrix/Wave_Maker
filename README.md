@@ -29,7 +29,8 @@ Also it is better to use a PWM Motor Controller or a higher rating Motor Driver 
 
 Photo Shown: Different Wave Maker Setup using a PWM Motor Controller and a motor equipped with a gearbox
 
+![image](https://user-images.githubusercontent.com/82814920/172283209-d42ba314-d11b-45e9-abca-ddc17511baa6.png)
+
 ![wave_maker_pwm](https://user-images.githubusercontent.com/82814920/116257387-9750d980-a7a6-11eb-8cc2-b9e5ab547667.gif)
 
 © 2020, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
-
