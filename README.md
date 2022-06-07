@@ -19,6 +19,8 @@ Choose speed for the motor
 
 Wave maker demonstration:
 
+![image](https://user-images.githubusercontent.com/82814920/172283139-4c65df78-49a4-4f0f-ae16-ee29ce70471f.png)
+
 ![wave_maker_demonstration](https://user-images.githubusercontent.com/82814920/170637876-f28c95a1-be15-4bd8-b270-6014386b11c2.gif)
 
 Based on the results, the motor will only move with an RPM of 180-255.
